@@ -1,6 +1,6 @@
 module Titan
 	module Jars
-		VERSION     = "0.5.0"
-		TITAN_VERSION = "0.5.0"
+		VERSION     = "0.5.1"
+		TITAN_VERSION = "0.5.1"
 	end
 end
